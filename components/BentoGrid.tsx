@@ -121,7 +121,7 @@ const BentoGrid: React.FC<BentoGridProps> = ({ onExpandProject, onSelectProject,
             <div className="relative z-10 mt-6 md:mt-8">
                 <p className="max-w-lg text-lg text-gray-700 dark:text-gray-300/90 md:text-xl font-light leading-relaxed tracking-wide transition-colors">
                 {PORTFOLIO_ROLE}. <br/>
-                A developer who thinks in components and dreams in neon.
+                I am a developer who thinks in elements and dreams in neon.
                 </p>
             </div>
             </div>
