@@ -1,6 +1,6 @@
 import { Project, Skill, SocialLink } from './types';
 
-export const PORTFOLIO_OWNER = "Hola! Welcome";
+export const PORTFOLIO_OWNER = "Welcome";
 export const PORTFOLIO_ROLE = "MOHAMMED NIHAD"; // Creative Developer & AI Specialist (previous Rule)
 export const PORTFOLIO_BIO = "I craft digital experiences that merge cutting-edge AI with fluid, reactive design. Obsessed with performance, aesthetics, and code that feels alive.";
 
